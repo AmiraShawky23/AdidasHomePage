@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/AdidasHomePage/static/css/main.1238d8d9.chunk.css",
+    "main.js": "/AdidasHomePage/static/js/main.a4b115d6.chunk.js",
+    "main.js.map": "/AdidasHomePage/static/js/main.a4b115d6.chunk.js.map",
+    "runtime-main.js": "/AdidasHomePage/static/js/runtime-main.70a220bc.js",
+    "runtime-main.js.map": "/AdidasHomePage/static/js/runtime-main.70a220bc.js.map",
+    "static/css/2.6d10d21b.chunk.css": "/AdidasHomePage/static/css/2.6d10d21b.chunk.css",
+    "static/js/2.f55cb841.chunk.js": "/AdidasHomePage/static/js/2.f55cb841.chunk.js",
+    "static/js/2.f55cb841.chunk.js.map": "/AdidasHomePage/static/js/2.f55cb841.chunk.js.map",
+    "index.html": "/AdidasHomePage/index.html",
+    "precache-manifest.b1e838d6c304799914097f1f69b83698.js": "/AdidasHomePage/precache-manifest.b1e838d6c304799914097f1f69b83698.js",
+    "service-worker.js": "/AdidasHomePage/service-worker.js",
+    "static/css/2.6d10d21b.chunk.css.map": "/AdidasHomePage/static/css/2.6d10d21b.chunk.css.map",
+    "static/css/main.1238d8d9.chunk.css.map": "/AdidasHomePage/static/css/main.1238d8d9.chunk.css.map",
+    "static/js/2.f55cb841.chunk.js.LICENSE.txt": "/AdidasHomePage/static/js/2.f55cb841.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/AdidasHomePage/static/media/video_img.e7fdf8ac.png",
+    "static/media/category_papper.png": "/AdidasHomePage/static/media/category_papper.170cdac5.png",
+    "static/media/icon-adidas-logo.svg": "/AdidasHomePage/static/media/icon-adidas-logo.bd707f74.svg",
+    "static/media/icon-crosslink-logo-reebok.svg": "/AdidasHomePage/static/media/icon-crosslink-logo-reebok.6a5c76d7.svg",
+    "static/media/styles.css": "/AdidasHomePage/static/media/revicons.2feb69cc.eot",
+    "static/media/shopping_type_card_2.png": "/AdidasHomePage/static/media/shopping_type_card_2.ae99b09c.png",
+    "static/media/shopping_type_card_3.png": "/AdidasHomePage/static/media/shopping_type_card_3.ab7ee273.png",
+    "static/media/video_papper.png": "/AdidasHomePage/static/media/video_papper.e59cc3d6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.70a220bc.js",
+    "static/css/2.6d10d21b.chunk.css",
+    "static/js/2.f55cb841.chunk.js",
+    "static/css/main.1238d8d9.chunk.css",
+    "static/js/main.a4b115d6.chunk.js"
+  ]
+}
